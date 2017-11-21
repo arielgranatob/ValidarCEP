@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#050505</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colortop">#272728</color>
+    <color name="colorAccent">#848484</color>
+    <color name="CorCadastro">#000000</color>
+    <color name="corcardview">#d9d8d8</color>
+    <color name="corFab">#000000</color>
+    <color name="coricones">#4E4E4E</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
